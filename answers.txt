@@ -1,0 +1,3 @@
+What is the difference between a merge and a rebase?
+
+The difference between a merge and a rebase is that merge preserves history, whereas rebase rewrites it.
